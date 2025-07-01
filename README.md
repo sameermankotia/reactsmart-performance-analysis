@@ -1,9 +1,11 @@
 # ReactSmart: Predictive Resource Optimization for Adaptive Component Loading
 
-[![npm version](https://img.shields.io/npm/v/reactsmart.svg)](https://www.npmjs.com/package/@sameermankotia2000/reactsmart)
-[![build status](https://img.shields.io/github/workflow/status/sameermankotia/reactsmart/CI)](https://github.com/sameermankotia/reactsmart/actions)
-[![license](https://img.shields.io/github/license/sameermankotia/reactsmart)](https://github.com/sameermankotia/reactsmart/blob/main/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/sameermankotia/reactsmart/blob/main/CONTRIBUTING.md)
+[![npm version](https://img.shields.io/npm/v/%40sameermankotia2000%2Freactsmart?color=crimson&logo=npm)](https://www.npmjs.com/package/@sameermankotia2000/reactsmart)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/sameermankotia/reactsmart/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=git)](https://github.com/sameermankotia/reactsmart/blob/main/CONTRIBUTING.md)
+
+
+
 
 ReactSmart is a machine learning-based resource optimization framework for React applications that significantly improves performance through intelligent, predictive component loading. By analyzing user behavior patterns and network conditions in real-time, ReactSmart dynamically optimizes the loading sequence of components to deliver superior user experiences across diverse computational environments.
 
@@ -18,9 +20,9 @@ ReactSmart is a machine learning-based resource optimization framework for React
 ## Installation
 
 ```bash
-npm install reactsmart
+npm install sameermankotia2000/reactsmart
 # or
-yarn add reactsmart
+yarn add sameermankotia2000/reactsmart
 ```
 
 ## Quick Start
