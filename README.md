@@ -189,20 +189,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ReactSmart is [MIT licensed](LICENSE).
 
-## Citation
-
-If you use ReactSmart in academic research, please cite our paper:
-
-```bibtex
-@article{mankotia2024predictive,
-  title={Predictive Resource Optimization using ReactSmart for Adaptive Component Loading},
-  author={Mankotia, Sameer and Jamil, Hasan M},
-  journal={Journal of Service Computing},
-  year={2024},
-  publisher={Elsevier}
-}
-```
-
 ## Project Repository Structure
 
 ```
@@ -237,4 +223,4 @@ reactsmart-performance-analysis/
 
 ## Contact
 
-For questions or support, please [open an issue](https://github.com/sameermankotia/reactsmart/issues) or contact the authors directly at [mank8837@vandals.uidaho.edu](mailto:mank8837@vandals.uidaho.edu).
+For questions or support, please [open an issue](https://github.com/sameermankotia/reactsmart-performance-analysis/issues) or contact the authors directly at [mank8837@vandals.uidaho.edu](mailto:mank8837@vandals.uidaho.edu), [dcontedeleonuidaho.edu](mailto:dcontedeleonuidaho.edu), [Jamil@uidaho.edu](mailto:Jamil@uidaho.edu).
