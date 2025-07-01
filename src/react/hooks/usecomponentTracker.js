@@ -1,5 +1,5 @@
 import { useContext, useRef, useEffect, useCallback } from 'react';
-import { ReactSmartContext } from '../react/ReactSmartProvider';
+import { ReactSmartContext } from '../ReactSmartProvider';
 
 /**
  * Hook for tracking component interactions and usage patterns

@@ -1,6 +1,6 @@
 import { useContext, useState, useEffect, useCallback } from 'react';
-import { ReactSmartContext } from '../react/ReactSmartProvider';
-import { detectNetworkConditions, categorizeNetworkQuality } from '../core/utils/networkUtils';
+import { ReactSmartContext } from '../ReactSmartProvider';
+import { detectNetworkConditions, categorizeNetworkQuality } from '../../core/utils/networkUtils';
 
 /**
  * Hook for making components network-aware
