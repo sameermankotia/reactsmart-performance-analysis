@@ -223,4 +223,4 @@ reactsmart-performance-analysis/
 
 ## Contact
 
-For questions or support, please [open an issue](https://github.com/sameermankotia/reactsmart/issues) or contact the authors directly at [mank8837@vandals.uidaho.edu](mailto:mank8837@vandals.uidaho.edu), [dcontedeleonuidaho.edu](mailto:dcontedeleonuidaho.edu), [Jamil@uidaho.edu](mailto:Jamil@uidaho.edu).
+For questions or support, please [open an issue](https://github.com/sameermankotia/reactsmart-performance-analysis/issues) or contact the authors directly at [mank8837@vandals.uidaho.edu](mailto:mank8837@vandals.uidaho.edu), [dcontedeleonuidaho.edu](mailto:dcontedeleonuidaho.edu), [Jamil@uidaho.edu](mailto:Jamil@uidaho.edu).
