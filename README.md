@@ -1,6 +1,6 @@
 # ReactSmart: Predictive Resource Optimization for Adaptive Component Loading
 
-[![npm version](https://img.shields.io/npm/v/reactsmart.svg)](https://www.npmjs.com/package/reactsmart)
+[![npm version](https://img.shields.io/npm/v/reactsmart.svg)](https://www.npmjs.com/package/@sameermankotia2000/reactsmart)
 [![build status](https://img.shields.io/github/workflow/status/sameermankotia/reactsmart/CI)](https://github.com/sameermankotia/reactsmart/actions)
 [![license](https://img.shields.io/github/license/sameermankotia/reactsmart)](https://github.com/sameermankotia/reactsmart/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/sameermankotia/reactsmart/blob/main/CONTRIBUTING.md)
